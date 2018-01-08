@@ -4,8 +4,9 @@
     "description": "Arduino Library for home brew bubble counter using the speed sensor",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jrd3n/bubbleCounter/tree/master/src"
+        "url": "https://github.com/jrd3n/bubbleCounter.git"
     },
+    "version": "1.0.0"
     "frameworks": "arduino",
     "platforms": "*",
     "examples": [
