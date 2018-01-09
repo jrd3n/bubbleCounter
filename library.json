@@ -14,7 +14,7 @@
     "frameworks": "arduino",
     "platforms": "*",
     "examples": [
-        "[Ee]xamples/basic.cpp"
+        "[Ee]xamples/main.cpp"
     ]
 
 }
