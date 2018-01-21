@@ -11,7 +11,7 @@ void serialRun(int interval) // function that write to the serial with a delay ,
     if (endTimeSerial < millis())
     {
 
-        String Line = "Count = " + String(bubble.BPH());
+        String Line = "Bubble per hour = " + String(bubble.BPH);
 
         Serial.println(Line);
 
